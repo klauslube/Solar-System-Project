@@ -12,7 +12,7 @@ class MissionCard extends React.Component {
         <p data-testid="mission-destination">{destination}</p>
       </div>
     );
-  }sda
+  }
 }
 
 MissionCard.propTypes = {
